@@ -14,3 +14,5 @@ offset_extrusion = rs.OffsetSurface(scaled_extrusion, offset_distance, create_so
     
  # Convert to polysurface
 polysurface = rs.coercebrep(offset_extrusion)
+
+#elias
